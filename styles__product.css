@@ -19,8 +19,12 @@ li {
   list-style: none;
 }
 
+h1, p, li, butto{
+  color: #f4faf5;
+}
+
 a {
-  color: #022;
+  color: #fff;
   text-decoration: none;
 }
 
